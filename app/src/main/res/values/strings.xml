@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="custom_view_text">Custom View</string>
+    <string name="edit_text_input">Type and rotate</string>
+    <string name="go_do_math">Type a number</string>
+    <string name="number_typed">The number you typed is:</string>
+    <string name="pager_text">Go to pager activity</string>
+    <string name="image_number">Image number:</string>
+</resources>
