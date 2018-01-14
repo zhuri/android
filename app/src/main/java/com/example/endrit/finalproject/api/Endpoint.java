@@ -5,6 +5,6 @@ package com.example.endrit.finalproject.api;
  */
 
 public class Endpoint {
-
-    static final String endpoint = "api.trekandi.dev/v1.0/clients";
+    static final String endpoint = "http://192.168.0.13:80/trekandi/public/v1.0/clients";
+//    static final String endpoint = "http://api.trekandi.localhost/v1.0/clients";
 }

@@ -6,4 +6,5 @@
     <string name="number_typed">The number you typed is:</string>
     <string name="pager_text">Go to pager activity</string>
     <string name="image_number">Image number:</string>
+    <string name="clients">Clients</string>
 </resources>

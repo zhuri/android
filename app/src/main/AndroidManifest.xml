@@ -22,6 +22,9 @@
         <activity android:name=".activities.MathActivity" />
         <activity android:name=".activities.MainPagerActivity" />
         <activity android:name=".activities.WebViewActivity" />
+        <activity android:name=".fragments.ClientListFragment" />
+        <activity android:name=".activities.ClientListActivity" />
+        <activity android:name=".activities.SpecificClientActivity" />
     </application>
 
 </manifest>

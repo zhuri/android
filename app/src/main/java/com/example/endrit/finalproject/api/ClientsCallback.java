@@ -11,5 +11,4 @@ import java.util.ArrayList;
 public interface ClientsCallback {
 
     void onClientsResponse(final ArrayList<Client> clients, boolean success);
-
 }
